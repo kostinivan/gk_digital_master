@@ -1,0 +1,14 @@
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\bin\Debug\netcoreapp3.1\sample0.exe
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\bin\Debug\netcoreapp3.1\sample0.deps.json
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\bin\Debug\netcoreapp3.1\sample0.runtimeconfig.json
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\bin\Debug\netcoreapp3.1\sample0.runtimeconfig.dev.json
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\bin\Debug\netcoreapp3.1\sample0.dll
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\bin\Debug\netcoreapp3.1\sample0.pdb
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\obj\Debug\netcoreapp3.1\sample0.csproj.AssemblyReference.cache
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\obj\Debug\netcoreapp3.1\sample0.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\obj\Debug\netcoreapp3.1\sample0.AssemblyInfoInputs.cache
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\obj\Debug\netcoreapp3.1\sample0.AssemblyInfo.cs
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\obj\Debug\netcoreapp3.1\sample0.csproj.CoreCompileInputs.cache
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\obj\Debug\netcoreapp3.1\sample0.dll
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\obj\Debug\netcoreapp3.1\sample0.pdb
+D:\personal\GK_learn\big_repo\gk_digital_master\lecture0\sample0\obj\Debug\netcoreapp3.1\sample0.genruntimeconfig.cache
