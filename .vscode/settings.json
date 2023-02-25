@@ -1,0 +1,6 @@
+{
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontSize": 12,
+    "debug.allowBreakpointsEverywhere": true
+}
