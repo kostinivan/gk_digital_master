@@ -5,4 +5,4 @@ The task is presented on follwoing [link](https://gbcdn.mrgcdn.ru/uploads/asset/
 ## Solution
 ### Logic
 schema
-[logic-pic](vecstr_logic.jpg)
+![logic-pic](vecstr_logic.jpg)
