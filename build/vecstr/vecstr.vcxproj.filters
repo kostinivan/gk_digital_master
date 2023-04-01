@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <ClCompile Include="D:\personal\GK_learn\big_repo\gk_digital_master\inter_sert_1\vecstr\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="D:\personal\GK_learn\big_repo\gk_digital_master\inter_sert_1\vecstr\src\vecstr.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

@@ -1,3 +1,3 @@
 project(vecstr)
 
-add_executable(vecstr "vecstr.hpp" "src/vecstr.cpp")
+add_executable(vecstr "src/main.cpp" "vecstr.hpp" "src/vecstr.cpp")

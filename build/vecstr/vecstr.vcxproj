@@ -308,6 +308,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="D:\personal\GK_learn\big_repo\gk_digital_master\inter_sert_1\vecstr\src\main.cpp" />
     <ClInclude Include="D:\personal\GK_learn\big_repo\gk_digital_master\inter_sert_1\vecstr\vecstr.hpp" />
     <ClCompile Include="D:\personal\GK_learn\big_repo\gk_digital_master\inter_sert_1\vecstr\src\vecstr.cpp" />
   </ItemGroup>
