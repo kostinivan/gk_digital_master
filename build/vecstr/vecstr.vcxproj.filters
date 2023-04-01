@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\personal\GK_learn\big_repo\gk_digital_master\inter_sert_1\vecstr\src\vecstr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\personal\GK_learn\big_repo\gk_digital_master\inter_sert_1\vecstr\vecstr.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\personal\GK_learn\big_repo\gk_digital_master\inter_sert_1\vecstr\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B623DD0B-4D7A-3E0B-A533-8A817BE13C91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6B5EC8B1-92BE-32D5-A7A4-7C9407975138}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

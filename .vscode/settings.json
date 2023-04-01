@@ -2,5 +2,6 @@
     "editor.cursorBlinking": "expand",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.fontSize": 12,
-    "debug.allowBreakpointsEverywhere": true
+    "debug.allowBreakpointsEverywhere": true,
+    "cmake.sourceDirectory": "${workspaceFolder}/inter_sert_1"
 }

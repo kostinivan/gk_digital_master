@@ -1,0 +1,4 @@
+D:/personal/GK_learn/big_repo/gk_digital_master/build/CMakeFiles/ALL_BUILD.dir
+D:/personal/GK_learn/big_repo/gk_digital_master/build/CMakeFiles/ZERO_CHECK.dir
+D:/personal/GK_learn/big_repo/gk_digital_master/build/vecstr/CMakeFiles/vecstr.dir
+D:/personal/GK_learn/big_repo/gk_digital_master/build/vecstr/CMakeFiles/ALL_BUILD.dir
